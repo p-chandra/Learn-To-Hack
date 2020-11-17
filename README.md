@@ -28,7 +28,6 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - John the Ripper
  - etc...
  
- ----
 # PRACTICE
 ## Beginner CTF
 PICO CTF
