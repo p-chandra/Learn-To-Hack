@@ -29,33 +29,39 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - etc...
  
 # PRACTICE
-## Beginner CTF
+## Beginner Friendly CTF
 PICO CTF
 https://www.picoctf.org/
 
 W3Challs
 https://w3challs.com/
 
-## Intermediate CTF
+OvertheWire
+https://overthewire.org/wargames/
+
+## Challenging CTF
 Hackthebox
 https://www.hackthebox.eu/
 
 TryHackMe
 https://tryhackme.com/
 
-## Advance
+
+### CTF events and much more
 https://www.ctftime.org
 
 
+---
 
-## Reversing
+# Special
+### Reversing
 CracksMes
 https://crackmes.one/
 
 Reversing.kr
 http://reversing.kr/index.php
 
-## Exploitation
+### Exploitation
 Modern Binary Exploitation from RPISEC
 https://github.com/RPISEC/MBE
 
@@ -68,7 +74,3 @@ http://io.netgarage.org/
 Microcorruption – Embedded system reversing and exploitation. 
 Great starting point for low-level reversing and hacking on unfamiliar architectures.
 https://microcorruption.com/login
-
-## System Exploitation
-OvertheWire – Variety of system-level challenges and wargames.
-https://overthewire.org/wargames/
