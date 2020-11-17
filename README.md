@@ -1,32 +1,32 @@
 # Learn The following
 
-This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below. I will also provide links to beginner CTFs that will help you practice and explore.
+This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. Note: It is a HIGHLY recommended that you install/practice on a virtual box or a throwaway computer with linux.
 
-## Step 1 - 
-- Linux
-- Networking 
+## Step 1 - Getting Familiar
+ - Linux
+ - Networking
+ - Computer Architecture
  
-## Step 2 - Programming
+## Step 2 - Language
  - CCS & HTML 
  - C/C++
  - Python
- - Assembly (x86, PPC, ARM, MIPS)
+ - Assembly: x86, PPC, ARM, MIPS (Optional)
  
-## Step 3 - Tools
+## Bonus Step - Pick a specialty to research
+ - Radio
+ - Bluetooth
+ - LAN Networks + WiFi
+ - Malware + Viruses
+ 
+## Some Tools I Recommend
  - Ghidra (or IDA PRO)
  - GDB
  - PWNTOOLS
  - Metasploit
+ - Wireshark
+ - John the Ripper
  - etc...
- 
-## Bonus Step - Pick a specialty
- - Radio
- - Bluetooth
- - LAN Networks
- - WiFi
- - Malware 
- - Viruses
- 
  
  ----
 # PRACTICE
@@ -43,6 +43,11 @@ https://www.hackthebox.eu/
 
 TryHackMe
 https://tryhackme.com/
+
+## Advance
+https://www.ctftime.org
+
+
 
 ## Reversing
 CracksMes
