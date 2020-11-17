@@ -28,8 +28,12 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - John the Ripper
  - etc...
  
-# PRACTICE
+
+--
+
 ## Beginner Friendly CTF
+Start with https://overthewire.org/wargames/bandit/ to test your terminal skills first.
+
 PICO CTF
 https://www.picoctf.org/
 
@@ -45,7 +49,6 @@ https://www.hackthebox.eu/
 
 TryHackMe
 https://tryhackme.com/
-
 
 ### CTF events and much more
 https://www.ctftime.org
