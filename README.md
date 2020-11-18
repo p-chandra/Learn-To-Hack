@@ -1,6 +1,6 @@
 # Learn The following
 
-This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. Note: It is a HIGHLY recommended that you install/practice on a virtual box or a throwaway computer with linux. Each topic will also be rated in importance from 1 - 3 with 3 being top priority and 1 meaning you need to understand the basics. 
+This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. Each topic will also be rated in importance from 1 - 3 with 3 being top priority and 1 meaning you need to understand the basics. Note: It is a HIGHLY recommended that you install/practice on a virtual box or a throwaway computer with linux.
 
 ### Step 1 - Getting Familiar
  - 3 - Linux
