@@ -14,7 +14,7 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - Assembly: x86, PPC, ARM, MIPS (Optional)
  
 ### Bonus Step - Pick a specialty to research
- - Radio
+ - Radio - https://greatscottgadgets.com/sdr/1/
  - Bluetooth
  - LAN Networks + WiFi
  - Malware + Viruses
