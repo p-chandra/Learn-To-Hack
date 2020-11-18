@@ -15,12 +15,12 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  
 ### Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
- - Bluetooth
+ - Bluetooth - https://freelearningtech.in/bluetooth-hacking-how-to-hack-bluetooth-device/
  - LAN Networks + WiFi
  - Malware + Viruses
  
 ### Some Tools I Recommend
- - Ghidra (or IDA PRO)
+ - Ghidra (or IDA PRO if you got $$)
  - GDB
  - PWNTOOLS
  - Metasploit
