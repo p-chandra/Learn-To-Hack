@@ -34,8 +34,8 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  **Note:There is no 1 tool that does it all and understanding how the tool works is much more beneficial
 
 ---
-
-### Beginner Friendly CTF
+# CTF
+### Beginner Friendly
 Start with https://overthewire.org/wargames/bandit/ to test your terminal skills first.
 
 PICO CTF
@@ -47,7 +47,7 @@ https://w3challs.com/
 OvertheWire
 https://overthewire.org/wargames/
 
-### Challenging CTF
+### Challenging
 Hackthebox
 https://www.hackthebox.eu/
 
@@ -60,7 +60,7 @@ https://www.ctftime.org
 
 ---
 
-# Special
+# Special CTF
 ### Reversing
 CracksMes
 https://crackmes.one/
