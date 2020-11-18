@@ -19,15 +19,19 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - LAN Networks + WiFi
  - Malware + Viruses
  
-### Some Tools I Recommend
- - Ghidra (or IDA PRO if you got $$)
+### Some Hacking Tools
+ - Ghidra
+ - Sniper
  - GDB
  - PWNTOOLS
  - Metasploit
  - Wireshark
  - John the Ripper
+ - Hydra
+ - Maltego
  - etc...
  
+ **Note:There is no 1 tool that does it all and understanding how the tool works is much more beneficial
 
 ---
 
