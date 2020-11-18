@@ -8,10 +8,11 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - Computer Architecture
  
 ### Step 2 - Language
- - CCS & HTML 
- - C/C++
  - Python
- - Assembly: x86, PPC, ARM, MIPS (Optional) - https://www.nekosecurity.com/x86-64-assembly/part-1-introduction
+ - C
+ - Javascript
+ - SQL (Optional)
+ - x86 or ARM (Optional) - https://www.nekosecurity.com/x86-64-assembly/part-1-introduction
  
 ### Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
