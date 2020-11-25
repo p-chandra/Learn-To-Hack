@@ -1,21 +1,21 @@
 # Learn The following
 
-This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. Each topic will also be rated in importance from 1 - 3 with 3 being top priority and 1 meaning you need to understand the basics. 
+This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.  
 
 *Note: It is a HIGHLY recommended that you install/practice on a virtual box or a throwaway computer with linux.
 
 ### Step 1 - Getting Familiar
- - 3 - Linux
- - 3 - Networking
- - 2 - Computer Architecture
+ - Linux
+ - Networking
+ - Computer Architecture
  
 ### Step 2 - Language
- - 3 - Python
- - 3 - C
- - 2 - Javascript
- - 1 - SQL
- - 1 - x86 or ARM https://www.nekosecurity.com/x86-64-assembly/part-1-introduction
- - 1 - PHP (If you're a psychopath)
+ - Python
+ - C
+ - Javascript
+ - SQL
+ - x86 or ARM https://www.nekosecurity.com/x86-64-assembly/part-1-introduction
+ - PHP (If you're a psychopath)
  
 ### Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
@@ -47,6 +47,9 @@ Start with https://overthewire.org/wargames/bandit/ to test your terminal skills
 PICO CTF
 https://www.picoctf.org/
 
+TryHackMe
+https://tryhackme.com/
+
 W3Challs
 https://w3challs.com/
 
@@ -56,9 +59,6 @@ https://overthewire.org/wargames/
 ### Challenging
 Hackthebox
 https://www.hackthebox.eu/
-
-TryHackMe
-https://tryhackme.com/
 
 ### CTF events and much more
 https://www.ctftime.org
@@ -87,3 +87,10 @@ http://io.netgarage.org/
 Microcorruption – Embedded system reversing and exploitation. 
 Great starting point for low-level reversing and hacking on unfamiliar architectures.
 https://microcorruption.com/login
+
+
+# Security Certification Progression 2020
+Which certification should you get?
+https://pauljerimy.com/security-certification-roadmap/
+
+
