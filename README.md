@@ -13,9 +13,9 @@ This is an attempt to help individuals who want to learn how to hack but don't k
  - Python
  - C
  - Javascript
- - SQL
  - x86 or ARM https://www.nekosecurity.com/x86-64-assembly/part-1-introduction
- - PHP (If you're a psychopath)
+ - (Optional) SQL
+ - (If you're a psychopath Optional) PHP
  
 ### Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
@@ -42,8 +42,6 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 ---
 # CTF
 ### Beginner Friendly
-Start with https://overthewire.org/wargames/bandit/ to test your terminal skills first.
-
 PICO CTF
 https://www.picoctf.org/
 
