@@ -1,8 +1,6 @@
 # Learn The following
 
-This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.  
-
-*Note: It is a HIGHLY recommended that you install/practice on a virtual box or a throwaway computer with linux.*
+This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.
 
 ### Step 1 - Getting Familiar
  - Linux
