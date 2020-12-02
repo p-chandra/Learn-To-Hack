@@ -3,7 +3,7 @@
 This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.
 
 ### Step 1 - Getting Familiar
- - Linux
+ - Linux - CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos  
  - Networking
  - Computer Architecture
  
