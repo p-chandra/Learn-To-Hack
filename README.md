@@ -5,8 +5,8 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 ### Step 1 - Getting Familiar
 Computer Architecture | Network | Linux 
 --- | --- | ---
-https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/  | https://www.educba.com/types-of-network-attacks/?source=leftnav  | https://ryanstutorials.net/linuxtutorial/commandline.php
---- | CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos | https://overthewire.org/wargames/bandit/
+[geeksforgeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/) | [educba](https://www.educba.com/types-of-network-attacks/?source=leftnav)  | [ryanstutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
+--- | CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos | [Practice](https://overthewire.org/wargames/bandit/)
 
 
 ### Step 2 - Language
