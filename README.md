@@ -3,16 +3,18 @@
 This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.
 
 ### Step 1 - Getting Familiar
+These are must but you do not need to be an expert. However, the more you know, the better.
 **Linux** 
 * `https://overthewire.org/wargames/bandit/`      
 
 
 **Networking** 
-* `https://www.educba.com/types-of-network-attacks/?source=leftnav **or** CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos       
+* `https://www.educba.com/types-of-network-attacks/?source=leftnav`
+* `CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos`
 
 
 **Computer Architecture** 
-* `https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
+* `https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/`
  
 ### Step 2 - Language
  - **Python** - https://www.python-course.eu/python3_history_and_philosophy.php
