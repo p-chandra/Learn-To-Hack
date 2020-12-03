@@ -5,8 +5,8 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 ### Step 1 - Getting Familiar
 Computer Architecture | Network | Terminal 
 --- | --- | ---
-[geeksforgeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/) | [educba](https://www.educba.com/types-of-network-attacks/?source=leftnav)  | [ryanstutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
---- | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames/bandit/)
+[geeksforgeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)| [educba](https://www.educba.com/types-of-network-attacks/?source=leftnav)  | [ryanstutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
+null | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames/bandit/)
 
 
 ..
@@ -18,7 +18,7 @@ General | Web-Based | Assembly
 --- | --- | ---
 [Python](https://www.tutorialspoint.com/python3/index.html)| Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
 [C](https://www.learn-c.org/) | HTML & CSS | ARM
-Java | PHP (optional) | ---  
+Java | PHP (optional) | null 
 
 
 ..
