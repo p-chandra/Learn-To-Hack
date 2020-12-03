@@ -17,11 +17,11 @@ Main | Web-Based | Assembly
 [C](https://www.learn-c.org/) | HTML & CSS | ARM
 Java | PHP (optional) | ---  
  
-## Bonus Step - Pick a specialty to research
- - Radio - https://greatscottgadgets.com/sdr/1/
- - Bluetooth - https://freelearningtech.in/bluetooth-hacking-how-to-hack-bluetooth-device/
- - *AN Networks + WiFi
- - Malware + Viruses
+## Step 3 - Specialize
+ - [Radio](https://greatscottgadgets.com/sdr/1/)
+ - [Bluetooth](https://freelearningtech.in/bluetooth-hacking-how-to-hack-bluetooth-device/)
+ - Networks + WiFi
+ - Malware
  - etc..
  
  *Note: Choose something that interests you.* 
