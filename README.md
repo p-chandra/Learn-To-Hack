@@ -4,23 +4,33 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 
 ### Step 1 - Getting Familiar
 Linux
-* `https://overthewire.org/wargames/bandit/`
-* `https://ryanstutorials.net/linuxtutorial/commandline.php`
+* https://overthewire.org/wargames/bandit/
+* https://ryanstutorials.net/linuxtutorial/commandline.php
 
 
 Networking
-* `https://www.educba.com/types-of-network-attacks/?source=leftnav`
-* `CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos`
+* https://www.educba.com/types-of-network-attacks/?source=leftnav
+* CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos
 
 
 Computer Architecture
-* `https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/`
+* https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
  
 ### Step 2 - Language
- - Python - https://www.python-course.eu/python3_history_and_philosophy.php
- - C - https://www.learn-c.org/
- - Any Web-based - Javascript, HTML, CSS, React, PHP(if youre a psychopath), etc..
- - x86 or ARM - https://www.nekosecurity.com/x86-64-assembly/part-1-introduction   
+Python 
+- https://www.python-course.eu/python3_history_and_philosophy.php
+
+
+C 
+- https://www.learn-c.org/
+
+
+Any Web-based 
+- Javascript, HTML, CSS, React, PHP(if youre a psychopath), etc..
+
+
+x86 or ARM
+- https://www.nekosecurity.com/x86-64-assembly/part-1-introduction   
  
 ### Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
