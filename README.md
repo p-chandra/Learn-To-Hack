@@ -24,7 +24,6 @@ Java | PHP (optional) | ---
  - Malware
  - etc..
  
- *Note: Choose something that interests you.* 
  
 ### Some Hacking Tools
  - Ghidra
@@ -38,7 +37,6 @@ Java | PHP (optional) | ---
  - Maltego
  - etc...
  
- *Note:There is no 1 tool that does it all and understanding how the tool works is much more beneficial
 
 ---
 # CTF
