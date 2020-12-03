@@ -38,6 +38,9 @@ Based on what you want to do but this picture is a good start. There are tons mo
  - etc..
 
 
+..
+
+
 
 ### Optional - Security Certifications!
 https://pauljerimy.com/security-certification-roadmap/
