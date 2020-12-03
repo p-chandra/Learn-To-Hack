@@ -28,6 +28,8 @@ Java | PHP (optional) | ---
 
 
 ### Step 3 - Tools
+Based on what you want to do but this picture is a good start. There are tons more but focus on the basics such as nmap, nc, gdb, etc. There are also special tools worth mentioning such as: Ghidra, Sniper, PWNTOOLS, Metasploit, Wireshark, John the Ripper, Hydra, Maltego, etc.
+![Based on what you want to do but this is a good start](Observability_Tools.png)
 
 
 ### Step 4 - Specialize
@@ -39,16 +41,7 @@ Java | PHP (optional) | ---
  
  
 ### Some Hacking Tools
- - Ghidra
- - Sniper
- - GDB
- - PWNTOOLS
- - Metasploit
- - Wireshark
- - John the Ripper
- - Hydra
- - Maltego
- - etc...
+ 
  
 
 ---
