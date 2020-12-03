@@ -16,23 +16,25 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 ### Computer Architecture
 * https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
  
+ 
+
 ## Step 2 - Language
-##Python 
+### Python 
 - https://www.python-course.eu/python3_history_and_philosophy.php
 - https://www.tutorialspoint.com/python3/index.htm
 
-C 
+### C 
 - https://www.learn-c.org/
 
 
-Any Web-based 
+### Any Web-based 
 - Javascript, HTML, CSS, React, PHP(if youre a psychopath), etc..
 
 
-x86 or ARM
+### x86 or ARM
 - https://www.nekosecurity.com/x86-64-assembly/part-1-introduction   
  
-### Bonus Step - Pick a specialty to research
+## Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
  - Bluetooth - https://freelearningtech.in/bluetooth-hacking-how-to-hack-bluetooth-device/
  - *AN Networks + WiFi
