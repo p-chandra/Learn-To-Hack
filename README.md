@@ -2,28 +2,21 @@
 
 This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.
 
-## Step 1 - Getting Familiar
+### Step 1 - Getting Familiar
 Computer Architecture | Network | Linux 
 --- | --- | ---
 https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/  | https://www.educba.com/types-of-network-attacks/?source=leftnav  | https://ryanstutorials.net/linuxtutorial/commandline.php
-EMPTY | CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos | https://overthewire.org/wargames/bandit/
+--- | CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos | https://overthewire.org/wargames/bandit/
 
 
-## Step 2 - Language
-### Python 
-- https://www.python-course.eu/python3_history_and_philosophy.php
-- https://www.tutorialspoint.com/python3/index.htm
+### Step 2 - Language
 
-### C 
-- https://www.learn-c.org/
-
-
-### Any Web-based 
-- Javascript, HTML, CSS, React, PHP(if youre a psychopath), etc..
-
-
-### x86 or ARM
-- https://www.nekosecurity.com/x86-64-assembly/part-1-introduction   
+Main | Web-Based | Assembly
+--- | --- | ---
+[Python] (https://www.tutorialspoint.com/python3/index.htm
+)| Javascript | [x86] (https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
+[C[ (https://www.learn-c.org/) | HTML & CSS | ARM
+Java | PHP (optional) | ---  
  
 ## Bonus Step - Pick a specialty to research
  - Radio - https://greatscottgadgets.com/sdr/1/
