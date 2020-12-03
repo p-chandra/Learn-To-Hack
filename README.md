@@ -1,9 +1,9 @@
 # Learn The following
 
-This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications.
+This is an attempt to help individuals who want to learn how to hack but don't know where to start. I will try to provide useful links for the topics listed below and friendly CTFs that can help you get started. I also have a link in the end if you want to pursue Security Certifications. *Note: I assume you are using debian based distro such as ubuntu, kali, or my favorite kubuntu.
 
 ### Step 1 - Getting Familiar
-Computer Architecture | Network | Linux 
+Computer Architecture | Network | Terminal 
 --- | --- | ---
 [geeksforgeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/) | [educba](https://www.educba.com/types-of-network-attacks/?source=leftnav)  | [ryanstutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
 --- | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames/bandit/)
