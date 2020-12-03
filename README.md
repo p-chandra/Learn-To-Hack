@@ -9,6 +9,8 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 
 **Networking** 
 * `https://www.educba.com/types-of-network-attacks/?source=leftnav **or** CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos       
+
+
 **Computer Architecture** 
 * `https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
  
