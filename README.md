@@ -8,10 +8,9 @@ Computer Architecture | Network | Linux
 [geeksforgeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/) | [educba](https://www.educba.com/types-of-network-attacks/?source=leftnav)  | [ryanstutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
 --- | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames/bandit/)
 
-..
-
 
 ..
+
 
 
 ### Step 2 - Language
@@ -21,10 +20,9 @@ General | Web-Based | Assembly
 [C](https://www.learn-c.org/) | HTML & CSS | ARM
 Java | PHP (optional) | ---  
 
-..
-
 
 ..
+
 
 
 ### Step 3 - Tools
@@ -38,11 +36,6 @@ Based on what you want to do but this picture is a good start. There are tons mo
  - Networks + WiFi
  - Malware
  - etc..
- 
- 
-### Some Hacking Tools
- 
- 
 
 ---
 # CTF
