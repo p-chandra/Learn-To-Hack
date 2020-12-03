@@ -37,6 +37,12 @@ Based on what you want to do but this picture is a good start. There are tons mo
  - Malware
  - etc..
 
+
+
+### Optional - Security Certifications!
+https://pauljerimy.com/security-certification-roadmap/
+
+
 ---
 # CTF
 ### Beginner Friendly
@@ -85,8 +91,5 @@ Great starting point for low-level reversing and hacking on unfamiliar architect
 https://microcorruption.com/login
 
 
-# Security Certification Progression 2020
-Which certification should you get?
-https://pauljerimy.com/security-certification-roadmap/
 
 
