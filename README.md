@@ -13,9 +13,8 @@ https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/ 
 
 Main | Web-Based | Assembly
 --- | --- | ---
-[Python] (https://www.tutorialspoint.com/python3/index.htm
-)| Javascript | [x86] (https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
-[C[ (https://www.learn-c.org/) | HTML & CSS | ARM
+[Python](https://www.tutorialspoint.com/python3/index.html)| Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
+[C](https://www.learn-c.org/) | HTML & CSS | ARM
 Java | PHP (optional) | ---  
  
 ## Bonus Step - Pick a specialty to research
