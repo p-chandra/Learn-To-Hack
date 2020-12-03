@@ -5,6 +5,8 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 ### Step 1 - Getting Familiar
 **Linux** 
 * `https://overthewire.org/wargames/bandit/`      
+
+
 **Networking** 
 * `https://www.educba.com/types-of-network-attacks/?source=leftnav **or** CBT Nuggets (Jeremy Cioara) and anything by INE. Jeremy's CCNA videos       
 **Computer Architecture** 
