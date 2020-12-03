@@ -8,16 +8,29 @@ Computer Architecture | Network | Linux
 [geeksforgeeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/) | [educba](https://www.educba.com/types-of-network-attacks/?source=leftnav)  | [ryanstutorials](https://ryanstutorials.net/linuxtutorial/commandline.php)
 --- | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames/bandit/)
 
+..
+
+
+..
+
 
 ### Step 2 - Language
-
-Main | Web-Based | Assembly
+General | Web-Based | Assembly
 --- | --- | ---
 [Python](https://www.tutorialspoint.com/python3/index.html)| Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
 [C](https://www.learn-c.org/) | HTML & CSS | ARM
 Java | PHP (optional) | ---  
- 
-## Step 3 - Specialize
+
+..
+
+
+..
+
+
+### Step 3 - Tools
+
+
+### Step 4 - Specialize
  - [Radio](https://greatscottgadgets.com/sdr/1/)
  - [Bluetooth](https://freelearningtech.in/bluetooth-hacking-how-to-hack-bluetooth-device/)
  - Networks + WiFi
