@@ -43,6 +43,9 @@ Based on what you want to do but this picture is a good start. There are tons mo
 https://pauljerimy.com/security-certification-roadmap/
 
 
+..
+
+
 ---
 # CTF
 ### Beginner Friendly
