@@ -4,6 +4,8 @@ This is an attempt to help individuals who want to learn how to hack but don't k
 
 ### Step 1 - Getting Familiar
 These are must but you do not need to be an expert. However, the more you know, the better.
+
+
 **Linux** 
 * `https://overthewire.org/wargames/bandit/`      
 
