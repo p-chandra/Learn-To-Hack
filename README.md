@@ -17,8 +17,8 @@ null | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames
 Script | High-Level | Low-Level | Web-Based | Assembly
 --- | --- | --- | --- | ---
 Python | [Python](https://www.tutorialspoint.com/python3/index.html)| [C](https://www.learn-c.org/) | Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
-_ | _ | _ | HTML & CSS | ARM
-_ | _ | _ | PHP | _ 
+Bash | _ | _ | HTML & CSS | ARM
+Perl | _ | _ | PHP | _ 
 
 
 ..
