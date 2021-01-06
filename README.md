@@ -14,11 +14,11 @@ null | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames
 
 
 ### Step 2 - Language
-General | Web-Based | Assembly
---- | --- | ---
-[Python](https://www.tutorialspoint.com/python3/index.html)| Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
-[C](https://www.learn-c.org/) | HTML & CSS | ARM
-Java | PHP (optional) | null 
+High-Level | Low-Level | Web-Based | Assembly
+--- | --- | --- | ---
+[Python](https://www.tutorialspoint.com/python3/index.html)| [C](https://www.learn-c.org/) | Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
+Java | None | HTML & CSS | ARM
+None | None | PHP (optional) | null 
 
 
 ..
