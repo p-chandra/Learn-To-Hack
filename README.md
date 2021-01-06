@@ -14,7 +14,7 @@ null | CBT Nuggets (Jeremy Cioara) | [Practice](https://overthewire.org/wargames
 
 
 ### Step 2 - Language
-Script | High-Level | Low-Level | Web-Based | Assembly
+Script | High-Level | Mid-Level | Web-Based | Low-Level
 --- | --- | --- | --- | ---
 Python | [Python](https://www.tutorialspoint.com/python3/index.html)| [C](https://www.learn-c.org/) | Javascript | [x86](https://www.nekosecurity.com/x86-64-assembly/part-1-introduction)
 Bash | _ | _ | HTML & CSS | ARM
